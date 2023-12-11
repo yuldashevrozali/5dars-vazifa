@@ -1,0 +1,16 @@
+.izoh {
+    resize: none;
+    display: flex;
+    width: 702px;
+    height: 148px;
+    padding: 18px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 16px;
+    border: 1px solid #E3E3E3;
+    font-size: 18px;
+}
+
+.textarea{
+    margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+.text-input {
+    border-radius: 16px;
+    border: 1px solid #E3E3E3;
+    padding: 18px;
+    width: 96%;
+}
+
+.text-input::placeholder {
+    color: var(--Gray, #6E6D77);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+}
+
+.input-label{
+    color: var(--Dark, #2A2941);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.input-label span{
+    color: var(--Dark, #FF2424);
+}
+
+.inputs{
+    margin-top: 20px;
+}
